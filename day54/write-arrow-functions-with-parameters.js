@@ -1,4 +1,5 @@
 const myConcat = (arr1, arr2) => {
+  console.log(arr1);
   return arr1.concat(arr2);
 };
 
